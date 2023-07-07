@@ -1,6 +1,6 @@
 # Final Portfolio
 
-This repository is a collection of some of my key learnings during my XXXX - XXXX apprenticeship at COMPANY_HERE.
+This repository is a collection of some of my key learnings during my XXXX - XXXX apprenticeship at American Express.
 
 ## Overview of Apprenticeship
 - **Host Company**:
